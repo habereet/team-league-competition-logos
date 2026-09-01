@@ -15,7 +15,7 @@ Logo/crest/flag assets used by a set of scheduled Claude jobs that send me daily
 - `Soccer/Competitions/{Competition Name}.svg` — continental/international competition logos. Currently only has the UEFA Champions League's logo; Europa League, Conference League, World Cup, Euro, Copa América, etc. are not in here yet.
 
 ## Not yet in this repo (planned)
-- National-team badges/flags for international tournaments (World Cup, Euros, Copa América, Olympics). Until these exist, the jobs fall back to the `flag-icons` npm package for country flags. \*\*Once a folder for these is added, name it clearly (e.g. `National Teams/{Country}.svg`) and document the exact path here\*\* — the jobs are written to prefer whatever's in this repo over the flag fallback, but only once they know where to look.
+- National-team badges/flags for international tournaments (World Cup, Euros, Copa América, Olympics). Until these exist, the jobs fall back to the `flag-icons` npm package for country flags. **Once a folder for these is added, name it clearly (e.g. `National Teams/{Country}.svg`) and document the exact path here** — the jobs are written to prefer whatever's in this repo over the flag fallback, but only once they know where to look.
 - Olympics/Paralympics/Commonwealth Games emblems.
 
 ## If you reorganize this repo
