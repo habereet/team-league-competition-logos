@@ -24,7 +24,7 @@ Logo/crest/flag assets used by a set of scheduled Claude jobs that send me daily
 
 \- `NBA/{Team Name}.svg` — plus `NBA Logo.svg`
 
-\- `NFL/{Team Name}.svg` — plus `NFL Logo.svg`. Filenames in this folder are inconsistent (some use underscores, some spaces, some end in `\_logo.svg`/`logo f.svg`/`logof.svg`, casing varies) — list the folder and match by substring rather than assuming a pattern.
+\- `NFL/{Team Name}.svg` — plus `NFL Logo.svg`
 
 \- `NHL/{Team Name}.svg` — plus `NHL Logo.svg`. Some names use accented characters (e.g. `Montréal Canadiens.svg`).
 
