@@ -1,5 +1,5 @@
 # team-league-competition-logos
-Logo/crest/flag assets used by a set of scheduled Claude jobs that send me daily/weekly news updates about various teams, leagues, and competitions. These jobs `git clone` this repo fresh on every run and read this file first to find the current folder layout before assuming any path — \*\*if you restructure anything below, update this file in the same commit.\*\* That's the only place the layout needs to be documented; the jobs don't hardcode paths anywhere else.
+Logo/crest/flag assets used by a set of scheduled Claude jobs that send me daily/weekly news updates about various teams, leagues, and competitions. These jobs `git clone` this repo fresh on every run and read this file first to find the current folder layout before assuming any path — **if you restructure anything below, update this file in the same commit.** That's the only place the layout needs to be documented; the jobs don't hardcode paths anywhere else.
 
 ## Sources
 - NCAA, NBA, NFL, NHL, and MLB logos were obtained from [Eagles SVG](https://eagles-svg.com)
